@@ -13,6 +13,7 @@ private:
 public:
 	Card();
 	~Card();
+
 	string colour();
 	int number();
 	void print();
